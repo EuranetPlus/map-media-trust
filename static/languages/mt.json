@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Iċ-ċittadini Ewropej għadhom jafdaw in-netwerks pubbliċi tat-televiżjoni u tar-radju?",
+  "subtitle": "Fl-2023, bħala medja, 48% taċ-ċittadini tal-UE intervistati għandhom tendenza li jafdaw il-midja pubblika.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-istħarriġ twettaq permezz ta’ intervisti fuq l-internet assistiti mill-kompjuter (CAWI) bl-użu ta’ panels online ta’ Ipsos u netwerks ta’ msieħba, b’xi rispondenti reklutati wkoll permezz tal-midja soċjali. Ix-xogħol fuq il-post sar mit-18 sat-24 ta’ Ottubru 2023 fost ċittadini tal-UE li għandhom 15-il sena jew aktar madwar l-UE27, b’total ta’ 25,956 intervista.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Eurobarometer (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
