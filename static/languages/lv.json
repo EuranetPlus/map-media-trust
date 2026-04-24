@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Vai Eiropas pilsoņi joprojām uzticas sabiedriskajai televīzijai un radio tīkliem?",
+  "subtitle": "2023. gadā vidēji 48% aptaujāto ES pilsoņu sliecas uzticēties sabiedriskajiem plašsaziņas līdzekļiem.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Aptauja tika veikta, izmantojot datorizētu tīmekļa interviju (CAWI) un Ipsos tiešsaistes paneļus un partneru tīklus, un daži respondenti tika papildus piesaistīti, izmantojot sociālos medijus. Lauka darbs notika no 2023. gada 18. līdz 24. oktobrim, aptaujājot ES pilsoņus vecumā no 15 gadiem visā ES 27 dalībvalstīs, kopumā veicot 25 956 intervijas.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eirobarometrs (2026. g.)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
