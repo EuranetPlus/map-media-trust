@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Vjeruju li europski građani još uvijek javnim televizijskim i radijskim mrežama?",
+  "subtitle": "U 2023. godini u prosjeku 48% intervjuiranih građana EU-a sklono je vjerovati javnim medijima.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Istraživanje je provedeno putem računalno potpomognutog web intervjuiranja (CAWI) korištenjem Ipsosovih online panela i partnerskih mreža, a neki ispitanici su dodatno regrutirani putem društvenih mreža. Terenski rad održan je od 18. do 24. listopada 2023. među građanima EU-a u dobi od 15+ godina diljem EU-27, s ukupno 25 956 intervjua.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurobarometar (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
