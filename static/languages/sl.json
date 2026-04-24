@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Ali evropski državljani še vedno zaupajo javnim televizijskim in radijskim omrežjem?",
+  "subtitle": "Leta 2023 je javnim medijem v povprečju zaupalo 48 % anketiranih državljanov EU.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Raziskava je bila izvedena z računalniško podprtim spletnim anketiranjem (CAWI) z uporabo spletnih panelov Ipsos in partnerskih omrežij, nekateri anketiranci pa so bili dodatno rekrutirani prek družbenih medijev. Terensko delo je potekalo od 18. do 24. oktobra 2023 med državljani EU, starimi 15 let ali več, v celotni EU-27, s skupno 25.956 intervjuji.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometer (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
