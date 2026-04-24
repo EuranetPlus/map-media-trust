@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Les citoyens européens font-ils encore confiance aux réseaux de télévision et de radio publics ?",
+  "subtitle": "En 2023, en moyenne 48 % des citoyens européens interrogés ont tendance à faire confiance aux médias publics.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "L’enquête a été menée par entretiens en ligne assistés par ordinateur (CAWI) à l’aide des panels en ligne d’Ipsos et de réseaux partenaires, certains répondants ayant également été recrutés via les réseaux sociaux. La collecte de données s’est déroulée du 18 au 24 octobre 2023 auprès de citoyens de l’UE âgés de 15 ans et plus dans les 27 États membres de l’UE, pour un total de 25 956 entretiens.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobaromètre (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
