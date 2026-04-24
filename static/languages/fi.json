@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Luottavatko Euroopan kansalaiset yhä julkisiin televisio- ja radioverkkoihin?",
+  "subtitle": "Vuonna 2023 keskimäärin 48 % haastatelluista EU-kansalaisista luotti julkiseen mediaan.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Kysely tehtiin tietokoneella avusteisena verkkohaastatteluna (CAWI) Ipsosin verkkopaneelien ja kumppaniverkostojen avulla, ja joitakin vastaajia rekrytoitiin lisäksi sosiaalisen median kautta. Kenttätyö tehtiin 18.–24. lokakuuta 2023 yli 15-vuotiaiden EU:n kansalaisten keskuudessa EU27-alueella, ja yhteensä haastatteluja tehtiin 25 956.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometri (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
