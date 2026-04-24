@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Mai au cetățenii europeni încredere în rețelele publice de televiziune și radio?",
+  "subtitle": "În 2023, în medie, 48% dintre cetățenii UE intervievați tind să aibă încredere în mass-media publică.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Sondajul a fost realizat prin intermediul interviurilor online asistate de calculator (CAWI), utilizând paneluri online Ipsos și rețele partenere, unii respondenți fiind recrutați suplimentar prin intermediul rețelelor sociale. Munca de teren a avut loc în perioada 18-24 octombrie 2023 în rândul cetățenilor UE cu vârsta de peste 15 ani din UE-27, cu un total de 25.956 de interviuri.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometru (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
