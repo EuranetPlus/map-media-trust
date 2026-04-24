@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Ar Europos piliečiai vis dar pasitiki viešosios televizijos ir radijo tinklais?",
+  "subtitle": "2023 m. vidutiniškai 48 % apklaustų ES piliečių linkę pasitikėti viešąja žiniasklaida.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Apklausa buvo atlikta kompiuterizuotos internetinės apklausos (CAWI) būdu, naudojant „Ipsos“ internetines apklausas ir partnerių tinklus, o kai kurie respondentai papildomai buvo įtraukti per socialinius tinklus. Lauko darbas vyko 2023 m. spalio 18–24 d., tarp jų buvo 15 metų ir vyresni ES piliečiai visoje ES 27, iš viso apklausta 25 956 kartus.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "„Eurobarometras“ (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
