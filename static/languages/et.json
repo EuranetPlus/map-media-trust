@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kas Euroopa kodanikud usaldavad endiselt avalik-õiguslikku televisiooni ja raadiovõrke?",
+  "subtitle": "2023. aastal usaldas avalik-õiguslikku meediat keskmiselt 48% küsitletud ELi kodanikest.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Uuring viidi läbi arvutipõhise veebiküsitluse (CAWI) abil, kasutades Ipsose veebipaneele ja partnervõrgustikke, kusjuures mõned vastajad kaasati lisaks sotsiaalmeedia kaudu. Välitöö toimus 18.–24. oktoobrini 2023 EL 27 liikmesriikide 15-aastaste ja vanemate ELi kodanike seas, kokku küsitleti 25 956 inimest.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobaromeeter (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
