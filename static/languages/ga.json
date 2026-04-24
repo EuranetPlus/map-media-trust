@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "An bhfuil muinín fós ag saoránaigh na hEorpa as líonraí teilifíse agus raidió poiblí?",
+  "subtitle": "Sa bhliain 2023, ar an meán, bhí muinín ag 48% de shaoránaigh an AE a ndearnadh agallamh leo sna meáin phoiblí.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Rinneadh an suirbhé trí agallaimh ghréasáin le cúnamh ríomhaire (CAWI) ag baint úsáide as painéil ar líne Ipsos agus líonraí comhpháirtíochta, agus earcaíodh roinnt freagróirí trí na meáin shóisialta freisin. Rinneadh an obair allamuigh ón 18 go dtí an 24 Deireadh Fómhair 2023 i measc shaoránaigh AE os cionn 15 bliana d'aois ar fud AE27, le 25,956 agallamh san iomlán.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eorabharaiméadar (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
