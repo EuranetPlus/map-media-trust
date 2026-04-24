@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy obywatele Europy nadal ufają publicznym stacjom telewizyjnym i radiowym?",
+  "subtitle": "W 2023 r. średnio 48% ankietowanych obywateli UE wyraziło zaufanie do mediów publicznych.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Badanie przeprowadzono metodą wywiadu internetowego wspomaganego komputerowo (CAWI) z wykorzystaniem paneli internetowych Ipsos i sieci partnerskich, a część respondentów pozyskano dodatkowo za pośrednictwem mediów społecznościowych. Badania terenowe przeprowadzono w dniach 18–24 października 2023 r. wśród obywateli UE w wieku powyżej 15 lat w 27 państwach członkowskich UE, w sumie przeprowadzono 25 956 wywiadów.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurobarometr (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
