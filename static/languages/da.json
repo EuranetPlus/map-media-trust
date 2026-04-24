@@ -1,13 +1,11 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Har europæiske borgere stadig tillid til offentlige tv- og radionetværk?",
+  "subtitle": "I 2023 havde i gennemsnit 48 % af de adspurgte EU-borgere en tendens til at have tillid til de offentlige medier.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Undersøgelsen blev udført via computerassisteret webinterviewing (CAWI) ved hjælp af Ipsos onlinepaneler og partnernetværk, hvor nogle respondenter yderligere blev rekrutteret via sociale medier. Feltarbejdet fandt sted fra 18. til 24. oktober 2023 blandt EU-borgere i alderen 15+ i EU27, med i alt 25.956 interviews.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurobarometer (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
   "tooltipExtraInfoLabel": "Klik her"
 }
