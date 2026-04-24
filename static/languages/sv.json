@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Litar de europeiska medborgarna fortfarande på offentliga tv- och radionätverk?",
+  "subtitle": "År 2023 tenderade i genomsnitt 48 % av de intervjuade EU-medborgarna att lita på offentliga medier.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Undersökningen genomfördes via datorstödda webbintervjuer (CAWI) med hjälp av Ipsos onlinepaneler och partnernätverk, där vissa respondenter dessutom rekryterades via sociala medier. Fältarbetet ägde rum den 18–24 oktober 2023 bland EU-medborgare i åldern 15+ i EU27, med totalt 25 956 intervjuer.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurobarometern (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
