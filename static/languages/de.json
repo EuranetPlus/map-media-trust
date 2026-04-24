@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Vertrauen die europäischen Bürger noch den öffentlich-rechtlichen Fernseh- und Radiosendern?",
+  "subtitle": "Im Jahr 2023 gaben durchschnittlich 48 % der befragten EU-Bürger an, den öffentlich-rechtlichen Medien zu vertrauen.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Umfrage wurde mittels computergestützter Online-Interviews (CAWI) über die Online-Panels von Ipsos und Partnernetzwerke durchgeführt. Einige Befragte wurden zusätzlich über soziale Medien rekrutiert. Die Datenerhebung fand vom 18. bis 24. Oktober 2023 unter EU-Bürgern ab 15 Jahren in der gesamten EU-27 statt; insgesamt wurden 25.956 Interviews geführt.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurobarometer (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
